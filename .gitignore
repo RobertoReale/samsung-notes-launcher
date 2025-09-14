@@ -1,0 +1,40 @@
+# Windows
+[Dd]esktop.ini
+Thumbs.db
+ehthumbs.db
+*.lnk
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Backup files created by the script
+*_backup_*.txt
+restore_samsung_values.bat
+
+# System files
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Backup files
+*.bak
+*.backup
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
